@@ -2,5 +2,5 @@
 <br/>  
 
 <div align="center">  
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
+<h1>JUST A CODER AND PASSIONATE ABOUT "GOJO SATORU" </h1>
 </div>
