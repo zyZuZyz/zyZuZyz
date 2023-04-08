@@ -4,4 +4,4 @@
 </div>
 
 
-<div align="right">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+![Profile views counter](https://komarev.com/ghpvc/?username=zyZuZyz&&style=flat-square)  
