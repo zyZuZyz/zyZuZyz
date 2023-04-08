@@ -3,6 +3,10 @@
 <h1> 🤞 JUST A NORMAL CODER 🤞 </h1>
 </div>
 
+<p>
+  Thanks for come here ! Hope our code can help you ♥️
+</p>
+  
 <br/>
 
 <table>
