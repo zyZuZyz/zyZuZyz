@@ -5,9 +5,7 @@
 
 <table>
  <td valign="bottom" halign="right" width="33%">
-  <div>
-![Profile views counter](https://komarev.com/ghpvc/?username=zyZuZyz&&style=flat-square)  
- </div>
+  ![Profile views counter](https://komarev.com/ghpvc/?username=zyZuZyz&&style=flat-square)  
   </td>
 </table>  
 
