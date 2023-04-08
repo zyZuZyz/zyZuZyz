@@ -4,7 +4,10 @@
 </div>
 
 <table>
- </td>![Profile views counter](https://komarev.com/ghpvc/?username=zyZuZyz&&style=flat-square)  <td valign="right" width="33%">
 </table>  
 
 
+<div>
+ 
+![Profile views counter](https://komarev.com/ghpvc/?username=zyZuZyz&&style=flat-square)  
+ </div>
