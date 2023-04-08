@@ -3,7 +3,7 @@
 <h1> 🤞 JUST A NORMAL CODER 🤞 </h1>
 </div>
 
-<p>
+<p align="center" valign="top" >
   Thanks for come here ! Hope our code can help you ♥️
 </p>
   
