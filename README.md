@@ -3,5 +3,8 @@
 <h1> 🤞 JUST A NORMAL CODER 🤞 </h1>
 </div>
 
+<table>
+ </td>![Profile views counter](https://komarev.com/ghpvc/?username=zyZuZyz&&style=flat-square)  <td valign="right" width="33%">
+</table>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=zyZuZyz&&style=flat-square)  
+
