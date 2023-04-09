@@ -3,7 +3,7 @@
 </div>
 
 <p align="center" valign="top" >
-  Thanks for come here ! Hope our code can help you ♥️
+  Thanks for come here ! Hope my code can help you ♥️
 </p>
   
 <br/>
